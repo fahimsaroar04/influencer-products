@@ -95,5 +95,11 @@ nav ul{
     height: 85vh;
 
 }
+/* partner-logo style */
+.partners{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 165px 100px;
+}
 
 /* shared style */
